@@ -69,7 +69,7 @@ See [REPORT.md](REPORT.md) for detailed analysis of:
 
 ## Author
 
-[Your Name]  
+Ritik shah  
 Big Data Analytics Course
 
 ## License
