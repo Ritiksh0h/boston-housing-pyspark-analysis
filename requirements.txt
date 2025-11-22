@@ -1,0 +1,6 @@
+findspark==2.0.1
+matplotlib==3.7.1
+pandas==2.0.3
+
+# Note: PySpark and Java are installed via the setup script
+# in the analysis file, not through pip for this project
